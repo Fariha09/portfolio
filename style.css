@@ -1,0 +1,14 @@
+/* This file contains the custom CSS from your <style> tag */
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f8fafc; /* Very light gray background */
+    color: #334155; /* Dark gray text */
+}
+
+.container-hero {
+    background-image: url('https://placehold.co/1920x1080/e2e8f0/94a3b8?text=Hero+Image');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
